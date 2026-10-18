@@ -1,0 +1,6 @@
+{
+  "name": "BLiN — Blend In",
+  "description": "All-in-one Gen Z social platform uniting short videos, messaging, communities, creator points, and IdeaSpark AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
